@@ -35,20 +35,23 @@
   </div>
 
   <script>
-       const authors = [
+    // Sample array of authors
+    const authors = [
       {
         name: "Gabriel Kiveu",
         description: "An iconic comic book writer and publisher, known for co-creating numerous characters.",
         image_url: "https://media.licdn.com/dms/image/v2/D4D03AQFDjxJ1xzJTOQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726449384132?e=1735171200&v=beta&t=zTNOH-P-LLyddbbNR7cBq3dAfTzOTji6X-qMtIi8ckc",
         comics: ["Spider-Man", "Iron Man", "Captain America"],
-        email: "gabek964@iastate.edu"
+        email: "gabek964@iastate.edu",
+        info: " SE 319(Construction of User Interfaces) at Iowa State University"
       },
       {
         name: "Theresa Lenberg",
         description: "A legendary comic book artist and writer, often referred to as the 'King of Comics'.",
         image_url: "https://media.licdn.com/dms/image/v2/D5603AQF2FBC6GTOCsg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679327346089?e=1735171200&v=beta&t=0P5d2HPDfOiGyyS3A5nOOFXDTGDi7EIFZMF7ZKyZpBs",
         comics: ["Fantastic Four", "Thor", "Ms.Marvel"],
-        email: "tlenberg@iastate.edu"
+        email: "tlenberg@iastate.edu",
+       info:" SE 319(Construction of User Interfaces) at Iowa State University"
       },
      
     ];
@@ -73,6 +76,8 @@
               <h5 class="card-title">${author.name}</h5>
               <p class="card-text">${author.description}</p>
               <p><strong>Notable Comics:</strong> ${author.comics.join(', ')}</p>
+               <p class="card-text"><strong>Course Information</strong>: ${author.info}</p>
+               <p class="card-text"><strong>Email</strong>: ${author.email}</p>
             </div>
             <div class="card-footer">
               <button class="btn btn-primary" onclick="showAuthorDetails('${author.name}')">View Details</button>
