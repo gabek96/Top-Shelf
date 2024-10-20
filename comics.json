@@ -1,0 +1,331 @@
+{
+  "comics": [
+    {
+      "title": "Batman",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Adventure", "Romance","Thriller"],
+      "first_appearance": "Detective Comics #27",
+      "description": "Bruce Wayne, a wealthy philanthropist, witnesses the murder of his parents and vows to fight crime as the masked vigilante known as Batman. Armed with high-tech gadgets and unmatched detective skills, he battles Gotham City's villains to protect the innocent.",
+      "image_url": "https://www.diamondartclub.com/cdn/shop/products/batman-diamond-art-painting-30038510174401.jpg?v=1624828177&width=1200"
+    },
+    {
+      "title": "Joker",
+      "author": "DC Comics",
+      "genre": "Villain",
+      "first_appearance": "Batman #1",
+      "description": "The Joker is Batman's archenemy, a psychopathic criminal mastermind with a sadistic sense of humor. His chaotic nature and unpredictable behavior make him a terrifying adversary, employing elaborate schemes and deadly traps to torment Gotham and its hero.",
+      "image_url": "https://cdn.europosters.eu/image/1300/art-photo/batman-and-joker-comic-cover-i166717.jpg"
+    },
+    {
+      "title": "Superman",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy", "Romance"],
+      "first_appearance": "Action Comics #1",
+      "description": "Kal-El, an alien from the planet Krypton, is raised as Clark Kent on Earth. With extraordinary powers such as flight, super strength, and heat vision, he becomes Superman, a symbol of hope and justice, defending humanity from powerful threats.",
+      "image_url": "https://nicksupes.com/wp-content/uploads/2024/08/img_6419.jpg"
+    },
+    {
+      "title": "Flash",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy", "Romance"],
+      "first_appearance": "Flash Comics #1",
+      "description": "Barry Allen, struck by lightning and doused in chemicals, gains super speed and becomes the Flash. As the fastest man alive, he uses his powers to fight crime and protect Central City, often facing time-travel challenges and powerful speedsters.",
+      "image_url": "https://comicvine.gamespot.com/a/uploads/scale_super/5/56044/2054889-flash__2011_4th_series__01a_.jpeg"
+    },
+    {
+      "title": "Thanos",
+      "author": "Marvel Comics",
+      "genre": "Villain",
+      "first_appearance": "Iron Man #55",
+      "description": "Thanos, the Mad Titan, seeks ultimate power and control over the universe. Obsessed with death, he uses the Infinity Stones to execute his catastrophic plans, posing an existential threat to heroes across the cosmos.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/8/90/654bb0c15a46a/clean.jpg"
+    },
+    {
+      "title": "Venom",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action"],
+      "first_appearance": "The Amazing Spider-Man #300",
+      "description": "Eddie Brock becomes the host for Venom, a symbiotic alien organism. Together, they gain spider-like abilities and a deep hatred for Spider-Man, making Venom one of the most formidable foes in the Spider-Man universe.",
+      "image_url": "https://the616comics.com/cdn/shop/products/image_e5c36cd0-b603-4f9a-afa9-cdab1a5fdc31_1200x1200.jpg?v=1645646270"
+    },
+    {
+      "title": "Green Lantern",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "All-American Comics #16",
+      "description": "Members of the Green Lantern Corps wield power rings that grant them incredible abilities. Hal Jordan, one of the most famous Green Lanterns, protects the universe with courage and willpower, battling cosmic threats and upholding justice.",
+      "image_url": "https://i0.wp.com/legacycomics.com/wp-content/uploads/2020/03/green-lantern-80th-anniversary-100-page-super-spectacular-1-lee-2010.png?fit=1330%2C2048&ssl=1"
+    },
+    {
+      "title": "Green Arrow",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "More Fun Comics #73",
+      "description": "Oliver Queen, a billionaire playboy, becomes Green Arrow after being stranded on an island. Armed with expert archery skills and a variety of trick arrows, he fights for justice in Star City, often taking on corrupt businessmen and criminals.",
+      "image_url": "https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/9/7/9781779524744_1.jpg"
+    },
+    {
+      "title": "Doctor Doom",
+      "author": "Marvel Comics",
+      "genre": "Villain",
+      "first_appearance": "The Fantastic Four #5",
+      "description": "Victor Von Doom, a brilliant scientist and sorcerer, rules Latveria with an iron fist. Obsessed with defeating the Fantastic Four and proving his superiority, he uses advanced technology and dark magic in his relentless pursuit of power.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/b/f0/5ddc1184c3e0e/clean.jpg"
+    },
+    {
+      "title": "Wonder Woman",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "All Star Comics #8",
+      "description": "Princess Diana, an Amazonian warrior, embodies strength, wisdom, and compassion. Equipped with magical weapons like the Lasso of Truth and indestructible bracelets, she fights for peace and equality, often clashing with gods and monsters.",
+      "image_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad84c0fb-f9e3-4c56-94a4-8ff0df86cd5c_1988x3056.jpeg"
+    },
+    {
+      "title": "Martian Manhunter",
+      "author": "DC Comics",
+      "genre": "Superhero",
+      "first_appearance": "Detective Comics #225",
+      "description": "J'onn J'onzz, the last surviving Martian, possesses incredible abilities such as shape-shifting, telepathy, and flight. As the Martian Manhunter, he fights for justice on Earth while grappling with his alien heritage and deep loneliness.",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1678480.jpg?1689394855"
+    },
+    {
+      "title": "Robin/Nightwing",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "Detective Comics #38",
+      "description": "Dick Grayson, the original Robin, evolves into Nightwing as he seeks to establish his own identity apart from Batman. Skilled in acrobatics and martial arts, he becomes a hero in his own right, protecting Gotham and later Blüdhaven.",
+      "image_url": "https://cdn.nexternal.com/dreamland/images/nwing_79bnm.jpg"
+    },
+    {
+      "title": "Blue Beetle",
+      "author": "DC Comics",
+      "genre": "Superhero",
+      "first_appearance": "Mystery Men Comics #1",
+      "description": "The legacy of Blue Beetle encompasses several characters, with Jaime Reyes becoming the most well-known. After discovering a mysterious alien scarab, he gains incredible powers and fights crime, often balancing teenage life with heroics.",
+      "image_url": "https://m.media-amazon.com/images/I/819-ioGlp4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Black Canary",
+      "author": "DC Comics",
+      "genre": "Superhero",
+      "first_appearance": "Flash Comics #86",
+      "description": "Dinah Drake, later known as Dinah Lance, is a skilled martial artist and expert in hand-to-hand combat. With her iconic Canary Cry, a powerful sonic scream, she fights alongside heroes like Green Arrow and the Justice League.",
+      "image_url": "https://catspawdynamics.com/wp-content/uploads/2018/04/black-canary-1-4.jpg"
+    },
+    {
+      "title": "Spider Man",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "Amazing Fantasy #15",
+      "description": "Peter Parker, a high school student bitten by a radioactive spider, gains incredible powers including wall-crawling and web-slinging. As Spider-Man, he navigates the challenges of heroism while dealing with personal struggles and relationships.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/5/d0/659ea7101a2e1/clean.jpg"
+    },
+    {
+      "title": "Green Goblin",
+      "author": "Marvel Comics",
+      "genre": "Villain",
+      "first_appearance": "The Amazing Spider-Man #14",
+      "description": "Norman Osborn, transformed into the Green Goblin after exposure to a serum, becomes one of Spider-Man's greatest foes. His cunning and brutality, along with his arsenal of goblin-themed weapons, create a deadly rivalry with the web-slinger.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/5b4e4f49616a4/clean.jpg"
+    },
+    {
+      "title": "Captain America",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "Captain America Comics #1",
+      "description": "Steve Rogers, a frail man enhanced by a super-soldier serum, becomes Captain America during World War II. He embodies courage and patriotism, wielding his iconic shield as he fights against tyranny and injustice.",
+      "image_url": "https://dreamersbooks.com/cdn/shop/products/captain-america-first-80-years-softcover-previews-exclusive-36745748152560_780x825.jpg?v=1676443210"
+    },
+    {
+      "title": "Iron Man",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "Tales of Suspense #39",
+      "description": "Tony Stark, a genius billionaire and playboy, builds an armored suit to save his life and becomes Iron Man. Using his intelligence and technology, he battles threats both personal and global, while grappling with his own inner demons.",
+      "image_url": "https://www.g-mart.com/static/f221949.jpg"
+    },
+    {
+      "title": "Thor",
+      "author": "Marvel Comics",
+      "genre": "Superhero",
+      "first_appearance": "Journey into Mystery #83",
+      "description": "Thor Odinson, the Norse God of Thunder, wields the enchanted hammer Mjolnir. As a protector of both Earth and Asgard, he battles mythical beings and cosmic forces, embodying the themes of honor and redemption.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/8/b0/5e00da382a27d/clean.jpg"
+    },
+    {
+      "title": "Loki",
+      "author": "Marvel Comics",
+      "genre": "Villain",
+      "first_appearance": "Journey into Mystery #85",
+      "description": "Loki, the God of Mischief and Thor's adopted brother, uses his cunning and magic to manipulate others for his gain. His complex relationship with his family and penchant for chaos make him a compelling and enduring villain.",
+      "image_url": "https://m.media-amazon.com/images/I/81ESfbdICuL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Hulk",
+      "author": "Marvel Comics",
+      "genre": "Superhero",
+      "first_appearance": "The Incredible Hulk #1",
+      "description": "Bruce Banner, a scientist exposed to gamma radiation, transforms into the Hulk when enraged. The green giant possesses immense strength and is often seen as a misunderstood creature, battling both foes and his own inner turmoil.",
+      "image_url": "https://legacycomics.com/wp-content/uploads/2021/10/hulk-1-jurgens-scaled.jpg"
+    },
+    {
+      "title": "Wolverine",
+      "author": "Marvel Comics",
+      "genre": "Superhero",
+      "first_appearance": "The Incredible Hulk #180",
+      "description": "James Howlett, known as Wolverine, possesses animal-like senses, retractable claws, and a regenerative healing factor. A member of the X-Men, he struggles with his feral instincts and a tumultuous past, often embodying the anti-hero archetype.",
+      "image_url": "https://tylerkirkhamart.com/cdn/shop/products/239466821_559820505287454_8930037152517496328_n_2048x.jpg?v=1630347583"
+    },
+    {
+      "title": "Megaman",
+      "author": "Capcom",
+      "genre": ["Superhero", "Drama", "Comedy","Adventure", "Romance", "Action"],
+      "first_appearance": "Mega Man (1987)",
+      "description": "Rock, also known as Mega Man, is a robot designed to fight evil. Equipped with an arm cannon that absorbs the abilities of defeated enemies, he battles the nefarious Dr. Wily and his army of robots to save the world.",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFA7HoMy7c1SSw6A4wcLKw-Ghv3gyEaX0OoexqPH6DnshE3KUyVGNDO4GYLgPmbPY3cOz6B9BaQDW5BvuSt5EAZ_K1oaYQGg4_ppz9WTpKq4uWC87Kit4ffeMigJV9wj50_BPKnYzRlLX6/s1600/megaman11a.jpg"
+    },
+    {
+      "title": "Sonic",
+      "author": "Sega",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance", "Adventure"],
+      "first_appearance": "Sonic the Hedgehog (1991)",
+      "description": "Sonic, a blue hedgehog with supersonic speed, battles against the evil Dr. Robotnik. With his carefree attitude and loyalty to friends, he embarks on adventures to protect his world from threats.",
+      "image_url": "https://comichub.blob.core.windows.net/high/a7ad0930-74fe-4777-9ecd-343f13adb8e6.jpg"
+    },
+    {
+      "title": "Tintin",
+      "author": "Casterman",
+      "genre": ["Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "Tintin in the Land of the Soviets (1929)",
+      "description": "Tintin, a young Belgian reporter, embarks on globe-trotting adventures with his dog Snowy. Known for his courage and resourcefulness, Tintin uncovers mysteries and battles villains in a quest for justice.",
+      "image_url": "https://i.pinimg.com/474x/39/56/2e/39562e27566254230dc5d49ac23cad8e.jpg"
+    },
+    {
+      "title": "Garfield",
+      "author": "Paws, Inc.",
+      "genre": "Comedy",
+      "first_appearance": "Garfield (1978)",
+      "description": "Garfield, the lazy, lasagna-loving cat, navigates life with his owner Jon and his canine rival Odie. Known for his sarcasm and love of food, Garfield's humorous antics reflect everyday challenges.",
+      "image_url": "https://m.media-amazon.com/images/I/71YuAicJhML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Calvin and Hobbes",
+      "author": "Universal Press Syndicate",
+      "genre": "Comedy",
+      "first_appearance": "Calvin and Hobbes (1985)",
+      "description": "Calvin, a mischievous young boy, and Hobbes, his sardonic stuffed tiger, explore the world through imaginative adventures. Their friendship and humorous outlook on life tackle serious themes in a lighthearted way.",
+      "image_url": "https://prodimage.images-bn.com/pimages/9780836217353_p0_v1_s1200x630.jpg"
+    },
+    {
+      "title": "Invincible",
+      "author": "Robert Kirkman",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "Invincible #1",
+      "description": "Mark Grayson inherits superpowers from his father, Omni-Man, a powerful alien. As he navigates the complexities of adolescence and heroism, he discovers that being a hero isn't just about strength; it's about moral choices and personal sacrifice.",
+      "image_url": "https://m.media-amazon.com/images/I/A1XkXgQMa4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Astro Boy",
+      "author": "Osamu Tezuka",
+      "genre": "Action",
+      "first_appearance": "Astro Boy (1952)",
+      "description": "Astro Boy, a robot with human emotions, fights for justice in a world that often discriminates against machines. His adventures include battling evil robots and seeking acceptance in a society divided by technology.",
+      "image_url": "https://m.media-amazon.com/images/I/81aJD52vBDS._SL1485_.jpg"
+    },
+    {
+      "title": "Peanuts",
+      "author": "United Feature Syndicate",
+      "genre": "Comedy",
+      "first_appearance": "Peanuts (1950)",
+      "description": "The Peanuts gang, led by Charlie Brown, deals with childhood woes and adventures. Featuring iconic characters like Snoopy and Lucy, the strip explores themes of friendship, optimism, and the struggles of growing up.",
+      "image_url": "https://m.media-amazon.com/images/I/712oQxHtuFL._SY425_.jpg"
+    },
+    {
+      "title": "Death Note",
+      "author": "Tsugumi Ohba",
+      "genre": ["Mystery", "Drama"],
+      "first_appearance": "Death Note (2003)",
+      "description": "Light Yagami, a high school student, discovers a mysterious notebook that allows him to kill anyone by writing their name. As he attempts to create a utopia free of crime, he faces off against the brilliant detective L in a deadly game of wits.",
+      "image_url": "https://static.mangafire.to/3b2d5/i/2/25/25547fcad01b1ce0196e08c85396bc7f.jpg"
+    },
+    {
+      "title": "Attack on Titan",
+      "author": "Hajime Isayama",
+      "genre": ["Drama", "Action"],
+      "first_appearance": "Attack on Titan (2009)",
+      "description": "In a world besieged by giant humanoid creatures known as Titans, Eren Yeager and his friends join the military to fight back. As they uncover dark secrets behind the Titans, they confront moral dilemmas about freedom and survival.",
+      "image_url": "https://static.mangafire.to/3b2d5/i/3/3d/3d54bb613e7bc8552ced316b86877d97.jpg"
+    },
+    {
+      "title": "My Hero Academia",
+      "author": "Kōhei Horikoshi",
+      "genre": ["Action","Adventure","Superhero","Drama"],
+      "first_appearance": "My Hero Academia (2014)",
+      "description": "In a world where most people have superpowers, Izuku Midoriya, born without powers, dreams of becoming a hero. His journey begins when he inherits the powers of the world's greatest hero and enrolls in a prestigious hero academy.",
+      "image_url": "https://static.mangafire.to/3b2d5/i/6/6b/4c1cc8f00f2a047ce4f452e055c2cad4.jpg"
+    },{
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "author": "Akira Himekawa",
+      "genre": [ "Comedy","Adventure","Fantasy"],
+      "first_appearance": "The Legend of Zelda: Ocarina of Time (1998)",
+      "description": "In the mystical land of Hyrule, three spiritual stones hold the key to the Triforce, and whoever holds them will control the world. A boy named Link sets out on a quest to deliver the Emerald, the spiritual stone of the forest, to Zelda, Princess of the land of Hyrule. The journey will be long and perilous, and Link will need all his skill and courage to defeat evil. The battle for Hyrule and the Sacred Realm has begun!",
+      "image_url": "https://m.media-amazon.com/images/I/81AnoJLn2eL._SL1500_.jpg"
+    },{
+      "title": "The Legend of Zelda: Twilight Princess",
+      "author": "Akira Himekawa",
+      "genre": ["Adventure","Romance","Action","Fantasy"],
+      "first_appearance": "The Legend of Zelda: Twilight Princess, Vol. 1 (2016)",
+      "description": "Link once trained in swordsmanship, hoping to protect the world of Hyrule. After a fateful meeting, he sought out the anonymity and peace of life in a small village. But danger and adventure always find heroes to set things right, and when the dark minions of the King of Shadows threaten his new home, Link answers the call!",
+      "image_url": "https://m.media-amazon.com/images/I/81wfko3QMyL._SL1500_.jpg"
+    },
+    {
+      "title": "Daredevil",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Action","Romance"],
+      "first_appearance": "Daredevil #1",
+      "description": "Matt Murdock, blinded as a child but with heightened senses, becomes Daredevil. Operating in Hell's Kitchen, he fights crime by day as a lawyer and by night as a vigilante, balancing his dual life while seeking justice.",
+      "image_url": "https://m.media-amazon.com/images/I/81ZLgB4MeyL._SL1500_.jpg"
+    },
+    {
+      "title": "Moon Knight",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Action", "Romance"],
+      "first_appearance": "Werewolf by Night #32",
+      "description": "Marc Spector, a former Marine and mercenary, becomes Moon Knight after being resurrected by the Egyptian moon god Khonshu. Struggling with dissociative identity disorder, he battles criminals and supernatural threats in his quest for justice.",
+      "image_url": "https://m.media-amazon.com/images/I/81Fr3pU2bEL._SL1500_.jpg"
+    },
+    {
+      "title": "Ms. Marvel",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Drama", "Romance"],
+      "first_appearance": "Captain Marvel #14",
+      "description": "Kamala Khan, a Pakistani-American teenager, discovers her Inhuman abilities, including shape-shifting. Embracing her identity as Ms. Marvel, she navigates the challenges of adolescence while fighting for justice.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/e/b0/5be371a0f2dae/clean.jpg"
+    },
+    {
+      "title": "Teen Titans",
+      "author": "DC Comics",
+      "genre": ["Superhero", "Drama", "Comedy","Adventure", "Romance"],
+      "first_appearance": "The Brave and the Bold #54",
+      "description": "A group of young heroes, including Robin, Wonder Girl, and Kid Flash, form the Teen Titans. They balance their personal lives with superhero duties while facing challenges and threats from villains.",
+      "image_url": "https://external-preview.redd.it/artwork-titans-together-titans-variant-cover-by-dan-mora-v0-gwA2_Q9gKMQi51necZ1Ra8T8szS_xHYQrt4mXUEMwns.jpg?width=1080&crop=smart&auto=webp&s=ded151599729e1324c8d1a19972fd32d6ab9d475"
+    },
+    {
+      "title": "X-Men",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Romance", "Drama","Action"],
+      "first_appearance": "X-Men #1",
+      "description": "The X-Men, a team of mutants, fight for equality and coexistence between humans and mutants. Led by Professor X, they battle prejudice and powerful foes, exploring themes of identity, friendship, and sacrifice.",
+      "image_url": "https://www.midtowncomics.com/images/PRODUCT/XL/2326727_xl.jpg"
+    },
+    {
+      "title": "Hawkeye",
+      "author": "Marvel Comics",
+      "genre": ["Superhero", "Comedy","Action"],
+      "first_appearance": "Tales of Suspense #57",
+      "description": "Clint Barton, trained by skilled archers, becomes Hawkeye. With exceptional marksmanship and a variety of trick arrows, he fights alongside the Avengers, often bringing a unique human perspective to the team.",
+      "image_url": "https://m.media-amazon.com/images/I/513ka2jDyzL._AC_UF1000,1000_QL80_.jpg"
+    }
+   
+  ]
+}
