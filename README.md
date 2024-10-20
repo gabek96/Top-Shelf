@@ -1,4 +1,4 @@
-# Peek-Seek
+# Top Shelf
 Midterm Project for Construction of User Interfaces<br>
 SE/ComS319 Construction to User Interfaces <br>
 Fall 2024
