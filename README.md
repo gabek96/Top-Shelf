@@ -4,7 +4,6 @@ SE/ComS319 Construction to User Interfaces <br>
 Fall 2024
 
 Gabriel Kiveu gabek964@iastate.edu<br>
-Thresa Lenberg tlenberg@iastate.edu<br>
 10/13/2024
 
 
